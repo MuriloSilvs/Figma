@@ -1,2 +1,2 @@
-# Projetos_Figma
+# Figma
 Repositório com protótipos feitos na ferramenta Figma
