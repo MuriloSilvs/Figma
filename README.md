@@ -1,2 +1,2 @@
 # Projetos_Figma
-Repositório com projetos utilizando a ferramenta Figma
+Repositório com protótipos feitos na ferramenta Figma
